@@ -21,7 +21,7 @@ namespace coremvc.Controllers
 
         public IActionResult Index()
         {
-            _logger.LogDebug("Hello, this is the index!");
+            _logger.LogInformation("Hello, this is the index!");
             return View();
         }
 
