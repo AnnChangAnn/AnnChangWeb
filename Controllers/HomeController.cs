@@ -27,7 +27,7 @@ namespace coremvc.Controllers
 
         public IActionResult Privacy()
         {
-            _logger.LogTrace("Got to Privacy!");
+            _logger.LogInformation("Got to Privacy!");
             return View();
         }
 

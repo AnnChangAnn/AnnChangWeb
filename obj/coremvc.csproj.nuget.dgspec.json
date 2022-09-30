@@ -42,17 +42,17 @@
       "frameworks": {
         "netcoreapp3.1": {
           "dependencies": {
-            "NLog": {
+            "Font.Awesome": {
               "target": "Package",
-              "version": "[5.0.4, )"
+              "version": "[5.15.4, )"
             },
-            "NLog.Config": {
+            "NLog": {
               "target": "Package",
               "version": "[4.7.15, )"
             },
             "NLog.Web.AspNetCore": {
               "target": "Package",
-              "version": "[5.1.4, )"
+              "version": "[4.9.3, )"
             },
             "Newtonsoft.Json": {
               "target": "Package",
