@@ -1,10 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "QQk4JSE5YQJuHK8xmVEZNvX5mlyR2evSGifvAWeDyqm76ySn+/IM6rNch95sFxHK9KivwdDCbEYb7sh0TMzxxw==",
+  "dgSpecHash": "U1CRhmw8HAhYyoxjkBFe+vDV3Kb/lgFWlGN96p+aO/ss8AKX2nmjSPA4vcy8d54m7J21wBW+M+iLXaqU+b4T1Q==",
   "success": true,
   "projectFilePath": "D:\\classlibraryprojects\\coremvc\\coremvc.csproj",
   "expectedPackageFiles": [
-    "C:\\Users\\USER\\.nuget\\packages\\bootstrap\\4.0.0\\bootstrap.4.0.0.nupkg.sha512",
+    "C:\\Users\\USER\\.nuget\\packages\\bootstrap\\4.6.1\\bootstrap.4.6.1.nupkg.sha512",
     "C:\\Users\\USER\\.nuget\\packages\\font.awesome\\5.15.4\\font.awesome.5.15.4.nupkg.sha512",
     "C:\\Users\\USER\\.nuget\\packages\\jquery\\3.0.0\\jquery.3.0.0.nupkg.sha512",
     "C:\\Users\\USER\\.nuget\\packages\\microsoft.extensions.configuration\\3.0.0\\microsoft.extensions.configuration.3.0.0.nupkg.sha512",
@@ -20,7 +20,7 @@
     "C:\\Users\\USER\\.nuget\\packages\\nlog\\4.7.15\\nlog.4.7.15.nupkg.sha512",
     "C:\\Users\\USER\\.nuget\\packages\\nlog.extensions.logging\\1.6.4\\nlog.extensions.logging.1.6.4.nupkg.sha512",
     "C:\\Users\\USER\\.nuget\\packages\\nlog.web.aspnetcore\\4.9.3\\nlog.web.aspnetcore.4.9.3.nupkg.sha512",
-    "C:\\Users\\USER\\.nuget\\packages\\popper.js\\1.12.9\\popper.js.1.12.9.nupkg.sha512"
+    "C:\\Users\\USER\\.nuget\\packages\\popper.js\\1.16.1\\popper.js.1.16.1.nupkg.sha512"
   ],
   "logs": []
 }

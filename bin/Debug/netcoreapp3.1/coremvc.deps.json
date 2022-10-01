@@ -28,7 +28,7 @@
           "NLog": "4.7.15",
           "NLog.Web.AspNetCore": "4.9.3",
           "Newtonsoft.Json": "12.0.3",
-          "bootstrap": "4.0.0",
+          "bootstrap": "4.6.1",
           "Microsoft.AspNetCore.Antiforgery": "3.1.0.0",
           "Microsoft.AspNetCore.Authentication.Abstractions": "3.1.0.0",
           "Microsoft.AspNetCore.Authentication.Cookies": "3.1.0.0",
@@ -319,10 +319,10 @@
           "coremvc.dll": {}
         }
       },
-      "bootstrap/4.0.0": {
+      "bootstrap/4.6.1": {
         "dependencies": {
           "jQuery": "3.0.0",
-          "popper.js": "1.12.9"
+          "popper.js": "1.16.1"
         }
       },
       "Font.Awesome/5.15.4": {},
@@ -415,7 +415,7 @@
           "lib/netcoreapp3.0/NLog.Web.AspNetCore.dll": {}
         }
       },
-      "popper.js/1.12.9": {},
+      "popper.js/1.16.1": {},
       "Microsoft.AspNetCore.Antiforgery/3.1.0.0": {
         "compile": {
           "Microsoft.AspNetCore.Antiforgery.dll": {}
@@ -2116,12 +2116,12 @@
       "serviceable": false,
       "sha512": ""
     },
-    "bootstrap/4.0.0": {
+    "bootstrap/4.6.1": {
       "type": "package",
       "serviceable": true,
-      "sha512": "sha512-aW3kJMmptC2GD4+hIa3x3fSrPF4VkrWQ2PRBEJg+o7lMRMi7u4UW9igY/GP02/wrIpH/CusL+mQIM42YhvA3XQ==",
-      "path": "bootstrap/4.0.0",
-      "hashPath": "bootstrap.4.0.0.nupkg.sha512"
+      "sha512": "sha512-fLOGN8U/oSAsme1QGOTkEDNNSHt8GCRFO5/Z0f7n0gNhT9TImfNFqvXd94LFSRQyp2QKRsOgcqJStm6jqY2lUw==",
+      "path": "bootstrap/4.6.1",
+      "hashPath": "bootstrap.4.6.1.nupkg.sha512"
     },
     "Font.Awesome/5.15.4": {
       "type": "package",
@@ -2228,12 +2228,12 @@
       "path": "nlog.web.aspnetcore/4.9.3",
       "hashPath": "nlog.web.aspnetcore.4.9.3.nupkg.sha512"
     },
-    "popper.js/1.12.9": {
+    "popper.js/1.16.1": {
       "type": "package",
       "serviceable": true,
-      "sha512": "sha512-WfoI8YXFx31zr8w6AvYMmqKihR3a/wLc5wBhu41ApgBukTM8C2UHNSRFrO6485SDQ/HKoSn9yiEMgfBx1LVNNw==",
-      "path": "popper.js/1.12.9",
-      "hashPath": "popper.js.1.12.9.nupkg.sha512"
+      "sha512": "sha512-6GiVZho0vwBnId7pK7NLTjMGq4F0/VE65I08CCeKlarVoUt1w8SGTtJmhNo/0pK38EGUP/xbT4+OkWB8UTMPBw==",
+      "path": "popper.js/1.16.1",
+      "hashPath": "popper.js.1.16.1.nupkg.sha512"
     },
     "Microsoft.AspNetCore.Antiforgery/3.1.0.0": {
       "type": "referenceassembly",
